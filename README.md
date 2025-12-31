@@ -1,6 +1,6 @@
 # Test Automation Framework
 
-An enterprise-grade automation framework in **C#** leveraging **Selenium WebDriver**, **MSTest**, and **NLog**, supporting both **UI** and **API** automation with parallel execution and logging.\
+An enterprise-grade automation framework in **C#** leveraging **Selenium WebDriver**, **MSTest**, and **NLog**, supporting both **UI** and **API** automation with parallel execution and logging.
 
 ---
 
