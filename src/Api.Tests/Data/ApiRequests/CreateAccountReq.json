@@ -1,0 +1,14 @@
+{
+"name": "Test123",
+"email": "test123@gmail.com",
+"password": "test321",
+"firstname": "Test",
+"lastname": "User",
+"company":"abc pvt ltd",
+"address1":"Malvern street",
+"country":"Australia",
+"zipcode": 2153,
+"state":"NSW",
+"city": "Sydney",
+"mobile_number": 9876543210
+}
